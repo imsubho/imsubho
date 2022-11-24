@@ -1,5 +1,6 @@
-## Hi there 👋
-This is Subhadeep Mitra.<br>Currently working on Frontend Technologies. I really enjoy learning languages and frameworks like JavaScript and Angular.
+### Hi there 👋, I am Subhadeep Mitra
+#### Frontend Developer
+Currently working on Frontend Technologies. I really enjoy learning languages and frameworks like JavaScript and Angular.
 
 
 ## 🌐 Socials:
