@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Subhadeep Mitra.<br>Currently working on Frontend Technologies.
+This is Subhadeep Mitra.<br>Currently working on Frontend Technologies. I really enjoy learning languages and frameworks like JavaScript and Angular.
 
 
 ## 🌐 Socials:
